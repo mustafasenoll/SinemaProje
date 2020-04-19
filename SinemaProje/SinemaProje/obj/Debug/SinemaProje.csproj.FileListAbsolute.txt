@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\SinemaProje\SinemaProje\bin\Debug\SinemaProje.exe.config
+C:\Users\USER\source\repos\SinemaProje\SinemaProje\bin\Debug\SinemaProje.exe
+C:\Users\USER\source\repos\SinemaProje\SinemaProje\bin\Debug\SinemaProje.pdb
+C:\Users\USER\source\repos\SinemaProje\SinemaProje\obj\Debug\SinemaProje.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\SinemaProje\SinemaProje\obj\Debug\SinemaProje.Properties.Resources.resources
+C:\Users\USER\source\repos\SinemaProje\SinemaProje\obj\Debug\SinemaProje.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\SinemaProje\SinemaProje\obj\Debug\SinemaProje.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\SinemaProje\SinemaProje\obj\Debug\SinemaProje.exe
+C:\Users\USER\source\repos\SinemaProje\SinemaProje\obj\Debug\SinemaProje.pdb
+C:\Users\USER\source\repos\SinemaProje\SinemaProje\obj\Debug\SinemaProje.Anasayfa.resources
+C:\Users\USER\source\repos\SinemaProje\SinemaProje\obj\Debug\SinemaProje.BiletDetay.resources
+C:\Users\USER\source\repos\SinemaProje\SinemaProje\obj\Debug\SinemaProje.Koltuklar.resources
+C:\Users\USER\source\repos\SinemaProje\SinemaProje\obj\Debug\SinemaProje.ComboFixeGöreListeleme.resources
